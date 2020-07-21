@@ -1,4 +1,4 @@
-Подробная информация: https://codepen.io/OWIII/pen/KKVbJWd?editors=1010
+Подробная информация: https://codepen.io/csssr/pen/QPyPrz?editors=1010
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
